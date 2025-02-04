@@ -1,0 +1,13 @@
+html, body {
+ max-width: 800px;
+ margin: 0px;
+}
+
+table {
+  max-width: 720px;
+  width: 720px;
+}
+td, th {
+  word-wrap: break-word;
+  word-break: break-word;
+}
